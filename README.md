@@ -1,8 +1,6 @@
 #
 https://elis-f-cards.netlify.app/
 
-Extract all flashcards from the FbW-D01-Course website JSON file and display them on different pages of a single-page-app according to the submodule they belong to.
-
 # Flashcard site with menu
 
 ## flashcards-Livecoding
